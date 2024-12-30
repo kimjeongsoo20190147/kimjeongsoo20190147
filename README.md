@@ -11,7 +11,7 @@
 
 **🛠️ Infra and Tools**
 
-![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) 
+![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white) 
 <!--
 **kimjeongsoo20190147/kimjeongsoo20190147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
